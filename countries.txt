@@ -1,0 +1,250 @@
+name	code	region	sub_region	intermediate_region	Country_ID
+Afghanistan	AFG	Asia	Southern Asia		1
+Åland Islands	ALA	Europe	Northern Europe		2
+Albania	ALB	Europe	Southern Europe		3
+Algeria	DZA	Africa	Northern Africa		4
+American Samoa	ASM	Oceania	Polynesia		5
+Andorra	AND	Europe	Southern Europe		6
+Angola	AGO	Africa	Sub-Saharan Africa	Middle Africa	7
+Anguilla	AIA	Americas	Latin America and the Caribbean	Caribbean	8
+Antarctica	ATA				9
+Antigua and Barbuda	ATG	Americas	Latin America and the Caribbean	Caribbean	10
+Argentina	ARG	Americas	Latin America and the Caribbean	South America	11
+Armenia	ARM	Asia	Western Asia		12
+Aruba	ABW	Americas	Latin America and the Caribbean	Caribbean	13
+Australia	AUS	Oceania	Australia and New Zealand		14
+Austria	AUT	Europe	Western Europe		15
+Azerbaijan	AZE	Asia	Western Asia		16
+Bahamas	BHS	Americas	Latin America and the Caribbean	Caribbean	17
+Bahrain	BHR	Asia	Western Asia		18
+Bangladesh	BGD	Asia	Southern Asia		19
+Barbados	BRB	Americas	Latin America and the Caribbean	Caribbean	20
+Belarus	BLR	Europe	Eastern Europe		21
+Belgium	BEL	Europe	Western Europe		22
+Belize	BLZ	Americas	Latin America and the Caribbean	Central America	23
+Benin	BEN	Africa	Sub-Saharan Africa	Western Africa	24
+Bermuda	BMU	Americas	Northern America		25
+Bhutan	BTN	Asia	Southern Asia		26
+Bolivia (Plurinational State of)	BOL	Americas	Latin America and the Caribbean	South America	27
+"Bonaire, Sint Eustatius and Saba"	BES	Americas	Latin America and the Caribbean	Caribbean	28
+Bosnia and Herzegovina	BIH	Europe	Southern Europe		29
+Botswana	BWA	Africa	Sub-Saharan Africa	Southern Africa	30
+Bouvet Island	BVT	Americas	Latin America and the Caribbean	South America	31
+Brazil	BRA	Americas	Latin America and the Caribbean	South America	32
+British Indian Ocean Territory	IOT	Africa	Sub-Saharan Africa	Eastern Africa	33
+Brunei Darussalam	BRN	Asia	South-eastern Asia		34
+Bulgaria	BGR	Europe	Eastern Europe		35
+Burkina Faso	BFA	Africa	Sub-Saharan Africa	Western Africa	36
+Burundi	BDI	Africa	Sub-Saharan Africa	Eastern Africa	37
+Cabo Verde	CPV	Africa	Sub-Saharan Africa	Western Africa	38
+Cambodia	KHM	Asia	South-eastern Asia		39
+Cameroon	CMR	Africa	Sub-Saharan Africa	Middle Africa	40
+Canada	CAN	Americas	Northern America		41
+Cayman Islands	CYM	Americas	Latin America and the Caribbean	Caribbean	42
+Central African Republic	CAF	Africa	Sub-Saharan Africa	Middle Africa	43
+Chad	TCD	Africa	Sub-Saharan Africa	Middle Africa	44
+Chile	CHL	Americas	Latin America and the Caribbean	South America	45
+China	CHN	Asia	Eastern Asia		46
+Christmas Island	CXR	Oceania	Australia and New Zealand		47
+Cocos (Keeling) Islands	CCK	Oceania	Australia and New Zealand		48
+Colombia	COL	Americas	Latin America and the Caribbean	South America	49
+Comoros	COM	Africa	Sub-Saharan Africa	Eastern Africa	50
+Congo	COG	Africa	Sub-Saharan Africa	Middle Africa	51
+Congo (Democratic Republic of the)	COD	Africa	Sub-Saharan Africa	Middle Africa	52
+Cook Islands	COK	Oceania	Polynesia		53
+Costa Rica	CRI	Americas	Latin America and the Caribbean	Central America	54
+Cote d'Ivoire	CIV	Africa	Sub-Saharan Africa	Western Africa	55
+Croatia	HRV	Europe	Southern Europe		56
+Cuba	CUB	Americas	Latin America and the Caribbean	Caribbean	57
+Curaçao	CUW	Americas	Latin America and the Caribbean	Caribbean	58
+Cyprus	CYP	Asia	Western Asia		59
+Czechia	CZE	Europe	Eastern Europe		60
+Denmark	DNK	Europe	Northern Europe		61
+Djibouti	DJI	Africa	Sub-Saharan Africa	Eastern Africa	62
+Dominica	DMA	Americas	Latin America and the Caribbean	Caribbean	63
+Dominican Republic	DOM	Americas	Latin America and the Caribbean	Caribbean	64
+Ecuador	ECU	Americas	Latin America and the Caribbean	South America	65
+Egypt	EGY	Africa	Northern Africa		66
+El Salvador	SLV	Americas	Latin America and the Caribbean	Central America	67
+Equatorial Guinea	GNQ	Africa	Sub-Saharan Africa	Middle Africa	68
+Eritrea	ERI	Africa	Sub-Saharan Africa	Eastern Africa	69
+Estonia	EST	Europe	Northern Europe		70
+Eswatini	SWZ	Africa	Sub-Saharan Africa	Southern Africa	71
+Ethiopia	ETH	Africa	Sub-Saharan Africa	Eastern Africa	72
+Falkland Islands (Malvinas)	FLK	Americas	Latin America and the Caribbean	South America	73
+Faroe Islands	FRO	Europe	Northern Europe		74
+Fiji	FJI	Oceania	Melanesia		75
+Finland	FIN	Europe	Northern Europe		76
+France	FRA	Europe	Western Europe		77
+French Guiana	GUF	Americas	Latin America and the Caribbean	South America	78
+French Polynesia	PYF	Oceania	Polynesia		79
+French Southern Territories	ATF	Africa	Sub-Saharan Africa	Eastern Africa	80
+Gabon	GAB	Africa	Sub-Saharan Africa	Middle Africa	81
+Gambia	GMB	Africa	Sub-Saharan Africa	Western Africa	82
+Georgia	GEO	Asia	Western Asia		83
+Germany	DEU	Europe	Western Europe		84
+Ghana	GHA	Africa	Sub-Saharan Africa	Western Africa	85
+Gibraltar	GIB	Europe	Southern Europe		86
+Greece	GRC	Europe	Southern Europe		87
+Greenland	GRL	Americas	Northern America		88
+Grenada	GRD	Americas	Latin America and the Caribbean	Caribbean	89
+Guadeloupe	GLP	Americas	Latin America and the Caribbean	Caribbean	90
+Guam	GUM	Oceania	Micronesia		91
+Guatemala	GTM	Americas	Latin America and the Caribbean	Central America	92
+Guernsey	GGY	Europe	Northern Europe	Channel Islands	93
+Guinea	GIN	Africa	Sub-Saharan Africa	Western Africa	94
+Guinea-Bissau	GNB	Africa	Sub-Saharan Africa	Western Africa	95
+Guyana	GUY	Americas	Latin America and the Caribbean	South America	96
+Haiti	HTI	Americas	Latin America and the Caribbean	Caribbean	97
+Heard Island and McDonald Islands	HMD	Oceania	Australia and New Zealand		98
+Holy See	VAT	Europe	Southern Europe		99
+Honduras	HND	Americas	Latin America and the Caribbean	Central America	100
+Hong Kong	HKG	Asia	Eastern Asia		101
+Hungary	HUN	Europe	Eastern Europe		102
+Iceland	ISL	Europe	Northern Europe		103
+India	IND	Asia	Southern Asia		104
+Indonesia	IDN	Asia	South-eastern Asia		105
+Iran (Islamic Republic of)	IRN	Asia	Southern Asia		106
+Iraq	IRQ	Asia	Western Asia		107
+Ireland	IRL	Europe	Northern Europe		108
+Isle of Man	IMN	Europe	Northern Europe		109
+Israel	ISR	Asia	Western Asia		110
+Italy	ITA	Europe	Southern Europe		111
+Jamaica	JAM	Americas	Latin America and the Caribbean	Caribbean	112
+Japan	JPN	Asia	Eastern Asia		113
+Jersey	JEY	Europe	Northern Europe	Channel Islands	114
+Jordan	JOR	Asia	Western Asia		115
+Kazakhstan	KAZ	Asia	Central Asia		116
+Kenya	KEN	Africa	Sub-Saharan Africa	Eastern Africa	117
+Kiribati	KIR	Oceania	Micronesia		118
+Korea (Democratic People's Republic of)	PRK	Asia	Eastern Asia		119
+Korea (Republic of)	KOR	Asia	Eastern Asia		120
+Kuwait	KWT	Asia	Western Asia		121
+Kyrgyzstan	KGZ	Asia	Central Asia		122
+Lao People's Democratic Republic	LAO	Asia	South-eastern Asia		123
+Latvia	LVA	Europe	Northern Europe		124
+Lebanon	LBN	Asia	Western Asia		125
+Lesotho	LSO	Africa	Sub-Saharan Africa	Southern Africa	126
+Liberia	LBR	Africa	Sub-Saharan Africa	Western Africa	127
+Libya	LBY	Africa	Northern Africa		128
+Liechtenstein	LIE	Europe	Western Europe		129
+Lithuania	LTU	Europe	Northern Europe		130
+Luxembourg	LUX	Europe	Western Europe		131
+Macao	MAC	Asia	Eastern Asia		132
+Macedonia (the former Yugoslav Republic of)	MKD	Europe	Southern Europe		133
+Madagascar	MDG	Africa	Sub-Saharan Africa	Eastern Africa	134
+Malawi	MWI	Africa	Sub-Saharan Africa	Eastern Africa	135
+Malaysia	MYS	Asia	South-eastern Asia		136
+Maldives	MDV	Asia	Southern Asia		137
+Mali	MLI	Africa	Sub-Saharan Africa	Western Africa	138
+Malta	MLT	Europe	Southern Europe		139
+Marshall Islands	MHL	Oceania	Micronesia		140
+Martinique	MTQ	Americas	Latin America and the Caribbean	Caribbean	141
+Mauritania	MRT	Africa	Sub-Saharan Africa	Western Africa	142
+Mauritius	MUS	Africa	Sub-Saharan Africa	Eastern Africa	143
+Mayotte	MYT	Africa	Sub-Saharan Africa	Eastern Africa	144
+Mexico	MEX	Americas	Latin America and the Caribbean	Central America	145
+Micronesia (Federated States of)	FSM	Oceania	Micronesia		146
+Moldova (Republic of)	MDA	Europe	Eastern Europe		147
+Monaco	MCO	Europe	Western Europe		148
+Mongolia	MNG	Asia	Eastern Asia		149
+Montenegro	MNE	Europe	Southern Europe		150
+Montserrat	MSR	Americas	Latin America and the Caribbean	Caribbean	151
+Morocco	MAR	Africa	Northern Africa		152
+Mozambique	MOZ	Africa	Sub-Saharan Africa	Eastern Africa	153
+Myanmar	MMR	Asia	South-eastern Asia		154
+Namibia	NAM	Africa	Sub-Saharan Africa	Southern Africa	155
+Nauru	NRU	Oceania	Micronesia		156
+Nepal	NPL	Asia	Southern Asia		157
+Netherlands	NLD	Europe	Western Europe		158
+New Caledonia	NCL	Oceania	Melanesia		159
+New Zealand	NZL	Oceania	Australia and New Zealand		160
+Nicaragua	NIC	Americas	Latin America and the Caribbean	Central America	161
+Niger	NER	Africa	Sub-Saharan Africa	Western Africa	162
+Nigeria	NGA	Africa	Sub-Saharan Africa	Western Africa	163
+Niue	NIU	Oceania	Polynesia		164
+Norfolk Island	NFK	Oceania	Australia and New Zealand		165
+Northern Mariana Islands	MNP	Oceania	Micronesia		166
+Norway	NOR	Europe	Northern Europe		167
+Oman	OMN	Asia	Western Asia		168
+Pakistan	PAK	Asia	Southern Asia		169
+Palau	PLW	Oceania	Micronesia		170
+"Palestine, State of"	PSE	Asia	Western Asia		171
+Panama	PAN	Americas	Latin America and the Caribbean	Central America	172
+Papua New Guinea	PNG	Oceania	Melanesia		173
+Paraguay	PRY	Americas	Latin America and the Caribbean	South America	174
+Peru	PER	Americas	Latin America and the Caribbean	South America	175
+Philippines	PHL	Asia	South-eastern Asia		176
+Pitcairn	PCN	Oceania	Polynesia		177
+Poland	POL	Europe	Eastern Europe		178
+Portugal	PRT	Europe	Southern Europe		179
+Puerto Rico	PRI	Americas	Latin America and the Caribbean	Caribbean	180
+Qatar	QAT	Asia	Western Asia		181
+Reunion	REU	Africa	Sub-Saharan Africa	Eastern Africa	182
+Romania	ROU	Europe	Eastern Europe		183
+Russian Federation	RUS	Europe	Eastern Europe		184
+Rwanda	RWA	Africa	Sub-Saharan Africa	Eastern Africa	185
+Saint Barthélemy	BLM	Americas	Latin America and the Caribbean	Caribbean	186
+"Saint Helena, Ascension and Tristan da Cunha"	SHN	Africa	Sub-Saharan Africa	Western Africa	187
+Saint Kitts and Nevis	KNA	Americas	Latin America and the Caribbean	Caribbean	188
+Saint Lucia	LCA	Americas	Latin America and the Caribbean	Caribbean	189
+Saint Martin (French part)	MAF	Americas	Latin America and the Caribbean	Caribbean	190
+Saint Pierre and Miquelon	SPM	Americas	Northern America		191
+Saint Vincent and the Grenadines	VCT	Americas	Latin America and the Caribbean	Caribbean	192
+Samoa	WSM	Oceania	Polynesia		193
+San Marino	SMR	Europe	Southern Europe		194
+Sao Tome and Principe	STP	Africa	Sub-Saharan Africa	Middle Africa	195
+Saudi Arabia	SAU	Asia	Western Asia		196
+Senegal	SEN	Africa	Sub-Saharan Africa	Western Africa	197
+Serbia	SRB	Europe	Southern Europe		198
+Seychelles	SYC	Africa	Sub-Saharan Africa	Eastern Africa	199
+Sierra Leone	SLE	Africa	Sub-Saharan Africa	Western Africa	200
+Singapore	SGP	Asia	South-eastern Asia		201
+Sint Maarten (Dutch part)	SXM	Americas	Latin America and the Caribbean	Caribbean	202
+Slovakia	SVK	Europe	Eastern Europe		203
+Slovenia	SVN	Europe	Southern Europe		204
+Solomon Islands	SLB	Oceania	Melanesia		205
+Somalia	SOM	Africa	Sub-Saharan Africa	Eastern Africa	206
+South Africa	ZAF	Africa	Sub-Saharan Africa	Southern Africa	207
+South Georgia and the South Sandwich Islands	SGS	Americas	Latin America and the Caribbean	South America	208
+South Sudan	SSD	Africa	Sub-Saharan Africa	Eastern Africa	209
+Spain	ESP	Europe	Southern Europe		210
+Sri Lanka	LKA	Asia	Southern Asia		211
+Sudan	SDN	Africa	Northern Africa		212
+Suriname	SUR	Americas	Latin America and the Caribbean	South America	213
+Svalbard and Jan Mayen	SJM	Europe	Northern Europe		214
+Sweden	SWE	Europe	Northern Europe		215
+Switzerland	CHE	Europe	Western Europe		216
+Syrian Arab Republic	SYR	Asia	Western Asia		217
+"Taiwan, Province of China"	TWN	Asia	Eastern Asia		218
+Tajikistan	TJK	Asia	Central Asia		219
+"Tanzania, United Republic of"	TZA	Africa	Sub-Saharan Africa	Eastern Africa	220
+Thailand	THA	Asia	South-eastern Asia		221
+Timor-Leste	TLS	Asia	South-eastern Asia		222
+Togo	TGO	Africa	Sub-Saharan Africa	Western Africa	223
+Tokelau	TKL	Oceania	Polynesia		224
+Tonga	TON	Oceania	Polynesia		225
+Trinidad and Tobago	TTO	Americas	Latin America and the Caribbean	Caribbean	226
+Tunisia	TUN	Africa	Northern Africa		227
+Turkey	TUR	Asia	Western Asia		228
+Turkmenistan	TKM	Asia	Central Asia		229
+Turks and Caicos Islands	TCA	Americas	Latin America and the Caribbean	Caribbean	230
+Tuvalu	TUV	Oceania	Polynesia		231
+Uganda	UGA	Africa	Sub-Saharan Africa	Eastern Africa	232
+Ukraine	UKR	Europe	Eastern Europe		233
+United Arab Emirates	ARE	Asia	Western Asia		234
+United Kingdom of Great Britain and Northern Ireland	GBR	Europe	Northern Europe		235
+United States of America	USA	Americas	Northern America		236
+United States Minor Outlying Islands	UMI	Oceania	Micronesia		237
+Uruguay	URY	Americas	Latin America and the Caribbean	South America	238
+Uzbekistan	UZB	Asia	Central Asia		239
+Vanuatu	VUT	Oceania	Melanesia		240
+Venezuela (Bolivarian Republic of)	VEN	Americas	Latin America and the Caribbean	South America	241
+Viet Nam	VNM	Asia	South-eastern Asia		242
+Virgin Islands (British)	VGB	Americas	Latin America and the Caribbean	Caribbean	243
+Virgin Islands (U.S.)	VIR	Americas	Latin America and the Caribbean	Caribbean	244
+Wallis and Futuna	WLF	Oceania	Polynesia		245
+Western Sahara	ESH	Africa	Northern Africa		246
+Yemen	YEM	Asia	Western Asia		247
+Zambia	ZMB	Africa	Sub-Saharan Africa	Eastern Africa	248
+Zimbabwe	ZWE	Africa	Sub-Saharan Africa	Eastern Africa	249
